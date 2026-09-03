@@ -166,4 +166,4 @@ Tutor đã sẵn sàng và ai cũng truy cập được, nhưng công việc, tr
 
 ## 7. Memo quyết định
 
-Xem [NguyenTanHoang_Day28_memo.md](NguyenTanHoang_Day28_memo.md).
+Xem [memo/memo_quyet_dinh.md](../memo/memo_quyet_dinh.md).
