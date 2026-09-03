@@ -1,8 +1,13 @@
 # Track 1 — Day 28: AI Adoption & Change Management
 
-**Học viên:** Nguyễn Tấn Hoàng
-**MSSV:** 2A202601198
 **Sản phẩm nộp:** Dashboard Hành Động Cho Áp Dụng AI — v2
+
+**Nhóm thực hiện:**
+
+| # | Họ tên | MSSV | Vai trò |
+|---|---|---|---|
+| 1 | Nguyễn Tấn Hoàng | 2A202601198 | Leader |
+| 2 | Nguyễn Minh Đức | 2A202601946 | Thành viên |
 
 ## Sản phẩm được chẩn đoán
 

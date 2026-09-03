@@ -1,8 +1,15 @@
 # Dashboard Hành Động Cho Áp Dụng AI — v2
 
-**Sản phẩm:** VLearn AI Tutor · **Học viên:** Nguyễn Tấn Hoàng — 2A202601198
+**Sản phẩm:** VLearn AI Tutor
 **Khoá:** AI20K · Track 1 · Day 28 — AI Adoption & Change Management
 **Bản:** v2 (sau kiểm tra chéo) · **Quyết định:** SỬA — chưa mở rộng
+
+**Nhóm thực hiện:**
+
+| # | Họ tên | MSSV | Vai trò |
+|---|---|---|---|
+| 1 | Nguyễn Tấn Hoàng | 2A202601198 | Leader |
+| 2 | Nguyễn Minh Đức | 2A202601946 | Thành viên |
 
 ---
 

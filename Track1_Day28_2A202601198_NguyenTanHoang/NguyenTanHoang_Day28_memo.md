@@ -1,6 +1,13 @@
 # Memo quyết định — VLearn AI Tutor
 
-**AI20K · Track 1 · Day 28** · Nguyễn Tấn Hoàng — 2A202601198 · bản v2 sau kiểm tra chéo
+**AI20K · Track 1 · Day 28** · bản v2 sau kiểm tra chéo
+
+**Nhóm thực hiện:**
+
+| # | Họ tên | MSSV | Vai trò |
+|---|---|---|---|
+| 1 | Nguyễn Tấn Hoàng | 2A202601198 | Leader |
+| 2 | Nguyễn Minh Đức | 2A202601946 | Thành viên |
 
 ## 1. Vấn đề và nguyên nhân gốc
 
